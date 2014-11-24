@@ -1,0 +1,11 @@
+
+#page-tools ul.primary li.active, #page-tools .tabs ul.primary li.active {
+  border-bottom: 1px solid #fff !important;
+  background: #01325D !important;
+}
+
+#logo-wrapper a.logo {
+background-image: url("../images/logoosl.png") !important;
+
+}
+
