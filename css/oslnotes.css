@@ -9,3 +9,36 @@ background-image: url("../images/logoosl.png") !important;
 
 }
 
+
+/*Footer changes because of partner logos*/
+#footer #block-block-1 {
+width: 100%;
+margin: 0px;
+background-color: #e2e2e2;
+}
+
+#footer-blocks #block-block-1 .block-content {
+background-color: #e2e2e2;
+padding: 0px;
+}
+
+
+#footer ul.links a {
+color: #48A;
+}
+
+#footer #block-menu-primary-links .block-content {
+background-color: #01325D;
+padding-bottom: 32px;
+padding-top: 20px;
+}
+
+
+#footer-blocks #block-block-1 .block-content {
+background-color: #e2e2e2;
+padding: 0px;
+}
+
+#block-menu-primary-links ul.menu li {
+width: 250px;
+}
